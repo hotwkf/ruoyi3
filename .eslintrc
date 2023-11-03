@@ -1,0 +1,8 @@
+
+{
+  "root": true,
+  "extends": ["@handsomewolf/eslint-config"],
+  "globals": {
+    "LockAuthorizeSDK": "readonly"
+  }
+}
